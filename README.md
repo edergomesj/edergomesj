@@ -1,4 +1,5 @@
-##*Eder Gomes* | *Data Analysis* 📊 | *Data Science* 📉
+
+<p ><strong>Eder Gomes</strong> | Data Analysis 📊 | Data Science 📉</p>
 
 <!--
 **edergomesj/edergomesj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,15 +15,17 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<hr/>
 <div style="display: inline_block">
   <a href="https://github.com/edergomesj/github-readme-stats">
-    <img height=180 align="center" src="https://github-readme-stats.vercel.app/api?username=edergomesj&hide=contribs,issues&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+    <img height=160 align="center" src="https://github-readme-stats.vercel.app/api?username=edergomesj&hide=contribs,issues&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   </a>
   <a href="https://github.com/edergomesj/convoychat">
-    <img height=180 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=edergomesj&layout=compact&langs_count=8&card_width=320&show_icons=true&theme=dark" />
+    <img height=160 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=edergomesj&layout=compact&langs_count=8&card_width=320&show_icons=true&theme=dark" />
   </a>
 </div>
-<br>
+<br/>
+<br/>
 <div style="display: inline_block">
   <img align="center" alt="Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg">
   <img align="center" alt="SQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg">
@@ -33,8 +36,9 @@ Here are some ideas to get you started:
   <img align="center" alt="HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg">
 </div>
-<br>
-<div>
+<hr/>
+<br/>
+<div style="display: inline_block">
   <a href="mailto:edergomesj@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
 </div>
 
